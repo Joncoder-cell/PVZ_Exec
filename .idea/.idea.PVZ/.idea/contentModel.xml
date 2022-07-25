@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yaer\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\yaer\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_PVZ.1616447029.00" t="ExcludeRecursive" />
+    <e p="D:\网盘下载文件夹\PVZ" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AudioManager.cs" t="Include" />
+          <e p="Base" t="Include">
+            <e p="BaseEFObj.cs" t="Include" />
+          </e>
+          <e p="Camera_C.cs" t="Include" />
+          <e p="Conf" t="Include">
+            <e p="GameConf.cs" t="Include" />
+          </e>
+          <e p="EFAudio.cs" t="Include" />
+          <e p="Farme" t="Include">
+            <e p="PoolManager.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="Grid.cs" t="Include" />
+          <e p="GridManager.cs" t="Include" />
+          <e p="LVManager.cs" t="Include" />
+          <e p="Plant" t="Include">
+            <e p="Cherry.cs" t="Include" />
+            <e p="EF" t="Include">
+              <e p="Boom.cs" t="Include" />
+              <e p="Bullet.cs" t="Include" />
+            </e>
+            <e p="Peashooter.cs" t="Include" />
+            <e p="PlantBase.cs" t="Include" />
+            <e p="Spike.cs" t="Include" />
+            <e p="Sun.cs" t="Include" />
+            <e p="SunFlower.cs" t="Include" />
+            <e p="WallNut.cs" t="Include" />
+          </e>
+          <e p="PlantManager.cs" t="Include" />
+          <e p="PlayerManager.cs" t="Include" />
+          <e p="SkySunManager.cs" t="Include" />
+          <e p="StartSceneManager.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="LVInfoPanel.cs" t="Include" />
+            <e p="LVStartEF.cs" t="Include" />
+            <e p="OverPanel.cs" t="Include" />
+            <e p="SetPanel.cs" t="Include" />
+            <e p="Shovel.cs" t="Include" />
+            <e p="UIPlantCard.cs" t="Include" />
+          </e>
+          <e p="UIManager.cs" t="Include" />
+          <e p="Zombie" t="Include">
+            <e p="BucketheadZombie.cs" t="Include" />
+            <e p="ConeheadZombie.cs" t="Include" />
+            <e p="FlagZombie.cs" t="Include" />
+            <e p="Zombie.cs" t="Include" />
+            <e p="Zombie_DieBody.cs" t="Include" />
+            <e p="Zombie_Head.cs" t="Include" />
+            <e p="ZombieBase.cs" t="Include" />
+            <e p="ZombieHpState.cs" t="Include" />
+          </e>
+          <e p="ZombieManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PVZ.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
